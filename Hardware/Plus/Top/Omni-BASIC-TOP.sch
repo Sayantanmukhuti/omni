@@ -4958,7 +4958,7 @@ so here's a jumper to ground
 so it can be configued either
 way dynamically.</text>
 <text x="-154.94" y="396.24" size="1.778" layer="91" grouprefs="CONNECTORS">Connection to bottom board</text>
-<text x="-302.26" y="213.36" size="6.4516" layer="91">Omni Basic Top
+<text x="-312.42" y="152.4" size="6.4516" layer="91">Omni Basic Top
 Revision A
 Date: 03042021
 Author: Sayantan Mukhuti</text>
